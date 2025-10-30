@@ -34,7 +34,7 @@
 		<true/>
 	</dict>
 	<key>NSLocationWhenInUseUsageDescription</key>
-	<string></string>
+	<string/>
 	<key>RCTNewArchEnabled</key>
 	<true/>
 	<key>UILaunchStoryboardName</key>
@@ -51,5 +51,16 @@
 	</array>
 	<key>UIViewControllerBasedStatusBarAppearance</key>
 	<false/>
+	<key>UIAppFonts</key>
+	<array>
+		<string>FunnelDisplay-Bold.ttf</string>
+		<string>FunnelDisplay-ExtraBold.ttf</string>
+		<string>FunnelDisplay-Light.ttf</string>
+		<string>FunnelDisplay-Medium.ttf</string>
+		<string>FunnelDisplay-Regular.ttf</string>
+		<string>FunnelDisplay-SemiBold.ttf</string>
+		<string>ShadowsIntoLight-Regular.ttf</string>
+		<string>ShadowsIntoLight.ttf</string>
+	</array>
 </dict>
 </plist>

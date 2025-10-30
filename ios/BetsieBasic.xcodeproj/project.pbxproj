@@ -8,22 +8,38 @@
 
 /* Begin PBXBuildFile section */
 		086366283B9F71921296E7C3 /* PrivacyInfo.xcprivacy in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */; };
-		0C80B921A6F3F58F76C31292 /* libPods-BetsieBasic.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 5DCACB8F33CDC322A6C60F78 /* libPods-BetsieBasic.a */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
+		24CDCA03A5284A889BB198A6 /* FunnelDisplay-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = CF615BDD412048F09A86094A /* FunnelDisplay-Medium.ttf */; };
+		4D14F610AEC7403987A3DF17 /* FunnelDisplay-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E45DD70A5521460E87E26039 /* FunnelDisplay-Bold.ttf */; };
+		681802560A1C9EE6C934716E /* Pods_BetsieBasic.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = E91A0BE4429C39275B04A21D /* Pods_BetsieBasic.framework */; };
+		75824D92AD2C43559E49BCEC /* FunnelDisplay-Light.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 3CD47EE175C1438491852462 /* FunnelDisplay-Light.ttf */; };
 		761780ED2CA45674006654EE /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 761780EC2CA45674006654EE /* AppDelegate.swift */; };
 		81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */; };
+		8FDBCD7446164CC193937621 /* FunnelDisplay-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = E4DA1C2358014E1AA1907D74 /* FunnelDisplay-Regular.ttf */; };
+		AFFCF6DCC01F4AF794E66711 /* FunnelDisplay-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 39252E9BFC2641EAB7112700 /* FunnelDisplay-SemiBold.ttf */; };
+		DA7D9C8A8C524C2FACA4AB3C /* ShadowsIntoLight-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 37D027D8C04D47A586A79FF7 /* ShadowsIntoLight-Regular.ttf */; };
+		EC26BA73720E414A9114AC0F /* ShadowsIntoLight.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 002629BDB79747B384BA0F41 /* ShadowsIntoLight.ttf */; };
+		FDF7B41A15B24986B5184BB5 /* FunnelDisplay-ExtraBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 6B5B2E9672A244EAAA1C4101 /* FunnelDisplay-ExtraBold.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		002629BDB79747B384BA0F41 /* ShadowsIntoLight.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = ShadowsIntoLight.ttf; path = ../src/assets/fonts/ShadowsIntoLight.ttf; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* BetsieBasic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = BetsieBasic.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FB51A68108700A75B9A /* Images.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Images.xcassets; path = BetsieBasic/Images.xcassets; sourceTree = "<group>"; };
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = BetsieBasic/Info.plist; sourceTree = "<group>"; };
 		13B07FB81A68108700A75B9A /* PrivacyInfo.xcprivacy */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = PrivacyInfo.xcprivacy; path = BetsieBasic/PrivacyInfo.xcprivacy; sourceTree = "<group>"; };
+		37D027D8C04D47A586A79FF7 /* ShadowsIntoLight-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "ShadowsIntoLight-Regular.ttf"; path = "../src/assets/fonts/ShadowsIntoLight-Regular.ttf"; sourceTree = "<group>"; };
+		39252E9BFC2641EAB7112700 /* FunnelDisplay-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "FunnelDisplay-SemiBold.ttf"; path = "../src/assets/fonts/FunnelDisplay-SemiBold.ttf"; sourceTree = "<group>"; };
 		3B4392A12AC88292D35C810B /* Pods-BetsieBasic.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BetsieBasic.debug.xcconfig"; path = "Target Support Files/Pods-BetsieBasic/Pods-BetsieBasic.debug.xcconfig"; sourceTree = "<group>"; };
+		3CD47EE175C1438491852462 /* FunnelDisplay-Light.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "FunnelDisplay-Light.ttf"; path = "../src/assets/fonts/FunnelDisplay-Light.ttf"; sourceTree = "<group>"; };
 		5709B34CF0A7D63546082F79 /* Pods-BetsieBasic.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-BetsieBasic.release.xcconfig"; path = "Target Support Files/Pods-BetsieBasic/Pods-BetsieBasic.release.xcconfig"; sourceTree = "<group>"; };
-		5DCACB8F33CDC322A6C60F78 /* libPods-BetsieBasic.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-BetsieBasic.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		6B5B2E9672A244EAAA1C4101 /* FunnelDisplay-ExtraBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "FunnelDisplay-ExtraBold.ttf"; path = "../src/assets/fonts/FunnelDisplay-ExtraBold.ttf"; sourceTree = "<group>"; };
 		761780EC2CA45674006654EE /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = BetsieBasic/AppDelegate.swift; sourceTree = "<group>"; };
 		81AB9BB72411601600AC10FF /* LaunchScreen.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = LaunchScreen.storyboard; path = BetsieBasic/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		CF615BDD412048F09A86094A /* FunnelDisplay-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "FunnelDisplay-Medium.ttf"; path = "../src/assets/fonts/FunnelDisplay-Medium.ttf"; sourceTree = "<group>"; };
+		E45DD70A5521460E87E26039 /* FunnelDisplay-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "FunnelDisplay-Bold.ttf"; path = "../src/assets/fonts/FunnelDisplay-Bold.ttf"; sourceTree = "<group>"; };
+		E4DA1C2358014E1AA1907D74 /* FunnelDisplay-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = undefined; includeInIndex = 0; lastKnownFileType = unknown; name = "FunnelDisplay-Regular.ttf"; path = "../src/assets/fonts/FunnelDisplay-Regular.ttf"; sourceTree = "<group>"; };
+		E91A0BE4429C39275B04A21D /* Pods_BetsieBasic.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_BetsieBasic.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -32,7 +48,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				0C80B921A6F3F58F76C31292 /* libPods-BetsieBasic.a in Frameworks */,
+				681802560A1C9EE6C934716E /* Pods_BetsieBasic.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -55,7 +71,7 @@
 			isa = PBXGroup;
 			children = (
 				ED297162215061F000B7C4FE /* JavaScriptCore.framework */,
-				5DCACB8F33CDC322A6C60F78 /* libPods-BetsieBasic.a */,
+				E91A0BE4429C39275B04A21D /* Pods_BetsieBasic.framework */,
 			);
 			name = Frameworks;
 			sourceTree = "<group>";
@@ -75,6 +91,7 @@
 				83CBBA001A601CBA00E9B192 /* Products */,
 				2D16E6871FA4F8E400B85C8A /* Frameworks */,
 				BBD78D7AC51CEA395F1C20DB /* Pods */,
+				EE83E444950B40F2BB41635F /* Resources */,
 			);
 			indentWidth = 2;
 			sourceTree = "<group>";
@@ -96,6 +113,22 @@
 				5709B34CF0A7D63546082F79 /* Pods-BetsieBasic.release.xcconfig */,
 			);
 			path = Pods;
+			sourceTree = "<group>";
+		};
+		EE83E444950B40F2BB41635F /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				E45DD70A5521460E87E26039 /* FunnelDisplay-Bold.ttf */,
+				6B5B2E9672A244EAAA1C4101 /* FunnelDisplay-ExtraBold.ttf */,
+				3CD47EE175C1438491852462 /* FunnelDisplay-Light.ttf */,
+				CF615BDD412048F09A86094A /* FunnelDisplay-Medium.ttf */,
+				E4DA1C2358014E1AA1907D74 /* FunnelDisplay-Regular.ttf */,
+				39252E9BFC2641EAB7112700 /* FunnelDisplay-SemiBold.ttf */,
+				37D027D8C04D47A586A79FF7 /* ShadowsIntoLight-Regular.ttf */,
+				002629BDB79747B384BA0F41 /* ShadowsIntoLight.ttf */,
+			);
+			name = Resources;
+			path = "";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -161,6 +194,14 @@
 				81AB9BB82411601600AC10FF /* LaunchScreen.storyboard in Resources */,
 				13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */,
 				086366283B9F71921296E7C3 /* PrivacyInfo.xcprivacy in Resources */,
+				4D14F610AEC7403987A3DF17 /* FunnelDisplay-Bold.ttf in Resources */,
+				FDF7B41A15B24986B5184BB5 /* FunnelDisplay-ExtraBold.ttf in Resources */,
+				75824D92AD2C43559E49BCEC /* FunnelDisplay-Light.ttf in Resources */,
+				24CDCA03A5284A889BB198A6 /* FunnelDisplay-Medium.ttf in Resources */,
+				8FDBCD7446164CC193937621 /* FunnelDisplay-Regular.ttf in Resources */,
+				AFFCF6DCC01F4AF794E66711 /* FunnelDisplay-SemiBold.ttf in Resources */,
+				DA7D9C8A8C524C2FACA4AB3C /* ShadowsIntoLight-Regular.ttf in Resources */,
+				EC26BA73720E414A9114AC0F /* ShadowsIntoLight.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -356,6 +397,19 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"${PODS_CONFIGURATION_BUILD_DIR}/ReactCommon/ReactCommon.framework/Headers",
+					"${PODS_CONFIGURATION_BUILD_DIR}/ReactCommon/ReactCommon.framework/Headers/react/nativemodule/core",
+					"${PODS_CONFIGURATION_BUILD_DIR}/React-runtimeexecutor/React_runtimeexecutor.framework/Headers",
+					"${PODS_CONFIGURATION_BUILD_DIR}/React-runtimeexecutor/React_runtimeexecutor.framework/Headers/platform/ios",
+					"${PODS_CONFIGURATION_BUILD_DIR}/ReactCommon-Samples/ReactCommon_Samples.framework/Headers",
+					"${PODS_CONFIGURATION_BUILD_DIR}/ReactCommon-Samples/ReactCommon_Samples.framework/Headers/platform/ios",
+					"${PODS_CONFIGURATION_BUILD_DIR}/React-Fabric/React_Fabric.framework/Headers/react/renderer/components/view/platform/cxx",
+					"${PODS_CONFIGURATION_BUILD_DIR}/React-NativeModulesApple/React_NativeModulesApple.framework/Headers",
+					"${PODS_CONFIGURATION_BUILD_DIR}/React-graphics/React_graphics.framework/Headers",
+					"${PODS_CONFIGURATION_BUILD_DIR}/React-graphics/React_graphics.framework/Headers/react/renderer/graphics/platform/ios",
+				);
 				IPHONEOS_DEPLOYMENT_TARGET = 15.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					/usr/lib/swift,
@@ -425,6 +479,19 @@
 				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
 				GCC_WARN_UNUSED_FUNCTION = YES;
 				GCC_WARN_UNUSED_VARIABLE = YES;
+				HEADER_SEARCH_PATHS = (
+					"$(inherited)",
+					"${PODS_CONFIGURATION_BUILD_DIR}/ReactCommon/ReactCommon.framework/Headers",
+					"${PODS_CONFIGURATION_BUILD_DIR}/ReactCommon/ReactCommon.framework/Headers/react/nativemodule/core",
+					"${PODS_CONFIGURATION_BUILD_DIR}/React-runtimeexecutor/React_runtimeexecutor.framework/Headers",
+					"${PODS_CONFIGURATION_BUILD_DIR}/React-runtimeexecutor/React_runtimeexecutor.framework/Headers/platform/ios",
+					"${PODS_CONFIGURATION_BUILD_DIR}/ReactCommon-Samples/ReactCommon_Samples.framework/Headers",
+					"${PODS_CONFIGURATION_BUILD_DIR}/ReactCommon-Samples/ReactCommon_Samples.framework/Headers/platform/ios",
+					"${PODS_CONFIGURATION_BUILD_DIR}/React-Fabric/React_Fabric.framework/Headers/react/renderer/components/view/platform/cxx",
+					"${PODS_CONFIGURATION_BUILD_DIR}/React-NativeModulesApple/React_NativeModulesApple.framework/Headers",
+					"${PODS_CONFIGURATION_BUILD_DIR}/React-graphics/React_graphics.framework/Headers",
+					"${PODS_CONFIGURATION_BUILD_DIR}/React-graphics/React_graphics.framework/Headers/react/renderer/graphics/platform/ios",
+				);
 				IPHONEOS_DEPLOYMENT_TARGET = 15.1;
 				LD_RUNPATH_SEARCH_PATHS = (
 					/usr/lib/swift,
